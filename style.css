@@ -1,6 +1,4 @@
-body {
-  background: #000000;
-}
+body { background: #000000; }
 body *,
 html * {
   box-sizing: border-box;
