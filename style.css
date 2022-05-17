@@ -22,9 +22,7 @@ html * { box-sizing: border-box; }
 }
 .search-box input:hover { cursor: pointer; }
 .search-box input:hover:focus { cursor: text; }
-.search-box input:hover + span {
-  background: rgba(255, 255, 255, 0.2);
-}
+.search-box input:hover + span { background: rgba(255, 255, 255, 0.2); }
 .search-box input:focus {
   width: 200px;
   padding: 0 10px;
