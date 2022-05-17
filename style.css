@@ -32,9 +32,7 @@ html * { box-sizing: border-box; }
   color: #fff;
 }
 
-.search-box input:focus + span {
-  width: 200px;
-}
+.search-box input:focus + span { width: 200px; }
 
 .search-box input:focus + span::before {
   width: 2px;
