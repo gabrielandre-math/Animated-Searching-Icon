@@ -21,9 +21,7 @@ html * { box-sizing: border-box; }
   line-height: 25px;
 }
 .search-box input:hover { cursor: pointer; }
-.search-box input:hover:focus {
-  cursor: text;
-}
+.search-box input:hover:focus { cursor: text; }
 .search-box input:hover + span {
   background: rgba(255, 255, 255, 0.2);
 }
