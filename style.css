@@ -20,9 +20,7 @@ html * { box-sizing: border-box; }
   font-size: 1em;
   line-height: 25px;
 }
-.search-box input:hover {
-  cursor: pointer;
-}
+.search-box input:hover { cursor: pointer; }
 .search-box input:hover:focus {
   cursor: text;
 }
