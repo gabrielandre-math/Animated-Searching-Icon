@@ -29,7 +29,6 @@ html * { box-sizing: border-box; }
   background: none;
   color: #fff;
 }
-
 .search-box input:focus + span { width: 200px; }
 
 .search-box input:focus + span::before {
