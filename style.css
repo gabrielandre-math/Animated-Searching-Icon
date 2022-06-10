@@ -46,7 +46,6 @@ html * { box-sizing: border-box; }
   border-radius: 25px;
   left: 0;
 }
-
 .search-box input + span::before {
   transition: all 0.25s ease-in 0.25s;
   transform-origin: left top;
