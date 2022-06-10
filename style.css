@@ -7,7 +7,6 @@ html * { box-sizing: border-box; }
   top: 45%;
   translate: translate(-50%);
 }
-
 .search-box input {
   border: none;
   background: none;
