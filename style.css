@@ -1,7 +1,6 @@
 body { background: #000000; }
 body *,
 html * { box-sizing: border-box; }
-
 .container {
   position: absolute;
   left: 45%;
