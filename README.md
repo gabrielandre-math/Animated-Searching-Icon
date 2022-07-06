@@ -1,5 +1,5 @@
 # Animated-Searching-Icon
-A simple animated searching icon for my future websites 
+A simple animated searching icon for my future websites. 
 
 Codepen link --> https://codepen.io/ANDREGABRIELS/pen/zYpqzVW
 
